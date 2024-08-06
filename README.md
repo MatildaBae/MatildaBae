@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <br>
+    <br> <br> <br>
 
 <div align="center"><strong> 💬 Contact 💬 </strong></div> <br>
 <a href="https://www.instagram.com/matildabae_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style==for-the-badge&logo=C&logoColor=white&link="https://www.instagram.com/matildabae_/"/></a> 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style==for-the-badge&logo=Instagram&logoColor=white&link="https://www.instagram.com/matildabae_/"/></a> 
 
 
 ![](https://github.com/MatildaBae/github-stats-transparent/blob/a2d93241a7174e284139331584f47f50babc940f/generated/overview.svg#gh-light-mode-only)
