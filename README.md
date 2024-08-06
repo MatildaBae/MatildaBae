@@ -12,7 +12,7 @@
 
 
 ## Education ✏️
-- Korea University, Seoul, Korea(Mar. 2021-June. 2025) <br>
+- Korea University, Seoul, Korea(Mar. 2021-June. 2025) <br> Bachelor of Arts in Economics & Statistics <br>
 - University of British Columbia, Vancouver, Canada(Sep. 2023-Dec. 2023)
 <br> <br>
 
