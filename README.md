@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatildaBae&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatildaBae&layout=compact&theme=prussian)
