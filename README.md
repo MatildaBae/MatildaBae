@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=ADD8E6&height=300&section=header&text=Jiwon%20Matilda%20Bae&desc=Data%20Scientist%20in%20Healthcare%20Economics&descSize=20&descAlign=70&descAlignY=70&fontColor=4682B4&fontSize=80)
 
-<div align="center"><strong>🧐 Interest 🧐</strong></div>
+## Interest 🧐
 - Machine learning algorithms with a focus on predictive modeling <br>
 - Natural Language Process(NLP) <br>
 - Decision-making and resource allocation within healthcare systems
 <br> <br>
 
-<div align="center"><strong>✏️ Education ✏️</strong></div> <br>
+## Education ✏️
 - Korea University, Seoul, Korea(Mar. 2021-June. 2025) <br>
 - University of British Columbia, Vancouver, Canada(Sep. 2023-Dec. 2023)
-<br>
+<br> <br>
 
 
 <div align="center"><strong>✨ Tech Stack ✨</strong></div>
