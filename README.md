@@ -16,11 +16,9 @@
 <div align="center"><strong> 💬 Contact 💬 </strong></div> <br>
 <a href="mailto:com0901226@korea.ac.kr">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:com0901226@korea.ac.kr"/></a>
-
-<br>
 <a href="https://www.instagram.com/matildabae_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="https://www.instagram.com/matildabae_/"/></a> 
-<br>
+<br> <br>
 
 
 ![](https://github.com/MatildaBae/github-stats-transparent/blob/a2d93241a7174e284139331584f47f50babc940f/generated/overview.svg#gh-light-mode-only)
