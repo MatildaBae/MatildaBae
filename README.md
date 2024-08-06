@@ -2,7 +2,6 @@
 
 ![](https://github.com/MatildaBae/github-stats-transparent/blob/a2d93241a7174e284139331584f47f50babc940f/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/MatildaBae/github-stats-transparent/blob/a2d93241a7174e284139331584f47f50babc940f/generated/languages.svg#gh-light-mode-only)
-![](https://github.com/MatildaBae/github-stats-transparent/blob/generated/overview.svg#gh-light-mode-only)
 
 ## Interest 🧐
 - Machine learning algorithms with a focus on predictive modeling <br>
