@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
-    <br> <br> <br>
+<br> <br> <br>
 
 <div align="center"><strong> 💬 Contact 💬 </strong></div> <br>
 <a href="mailto:com0901226@korea.ac.kr">
