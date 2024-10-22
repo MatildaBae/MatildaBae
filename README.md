@@ -2,6 +2,8 @@
 
 ![](https://github.com/MatildaBae/github-stats-transparent/blob/output/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/MatildaBae/image/blob/master/generated/languages.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matildabae)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Interest 🧐
 - Machine learning algorithms with a focus on predictive modeling <br>
