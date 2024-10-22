@@ -3,6 +3,12 @@
 ![](https://github.com/MatildaBae/github-stats-transparent/blob/output/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/MatildaBae/github-stats-transparent/blob/output/generated/languages.svg#gh-light-mode-only)
 
+<div align="center">
+    <img src="https://github.com/MatildaBae/github-stats-transparent/blob/output/generated/overview.svg#gh-light-mode-only" />
+    <img src="https://github.com/MatildaBae/github-stats-transparent/blob/output/generated/languages.svg#gh-light-mode-only" />
+</div>
+
+
 ## Interest 🧐
 - Natural Language Process(NLP) in Sentiment Analysis <br>
 - Multimodal in Causal Inference <br>
