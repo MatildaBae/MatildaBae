@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=ADD8E6&height=300&section=header&text=Jiwon%20Matilda%20Bae&desc=Data%20Scientist%20in%20Healthcare%20Economics&descSize=20&descAlign=70&descAlignY=70&fontColor=4682B4&fontSize=80)
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=ADD8E6&height=300&section=header&text=Jiwon%20Matilda%20Bae&desc=Data%20Scientist%20in%20Healthcare%20Economics&descSize=20&descAlign=70&descAlignY=70&fontColor=4682B4&fontSize=80" />
 </div>
