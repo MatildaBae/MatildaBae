@@ -10,8 +10,8 @@
 
 
 ## Interest 🧐
+- Causal Inference and Explainability <br>
 - Natural Language Process(NLP) in Sentiment Analysis <br>
-- Multimodal in Causal Inference <br>
 - Decision-making and resource allocation within healthcare systems
 <br> <br>
 
