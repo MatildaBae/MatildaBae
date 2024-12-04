@@ -20,6 +20,10 @@
 - University of British Columbia, Vancouver, Canada(Sep. 2023-Dec. 2023)
 <br> <br>
 
+## Reaserch 📊
+- Undergraduate Researcher <br> Causality Lab, Graduate School of Data Science, Seoul National University(Nov. 2024-Present) <br>
+- Research Assistant <br> Professor Woochan Kim's Laboratory, Korea University, Business School(Sep. 2024-Jan. 2025)
+<br> <br>
 
 ## Tech Stack ✨
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
