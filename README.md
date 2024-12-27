@@ -10,7 +10,7 @@
 
 
 ## Interest 🧐
-- Causal Inference and Explainability <br>
+- Causal Inference and Explainability in LLMs <br>
 - Decision-making and resource allocation within healthcare systems
 <br> <br>
 
