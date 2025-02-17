@@ -10,8 +10,8 @@
 
 
 ## Interest 🧐
-- Causal Inference and Causal Discovery in LLMs <br>
-- Decision-making using Causal Reinforcement Learning and resource allocation within healthcare systems
+- Decision-making using Causal Reinforcement Learning <br>
+- Resource allocation within healthcare systems <br>
 <br> <br>
 
 
