@@ -16,12 +16,13 @@
 
 
 ## Education ✏️
+- Columbia Engineering, New York, USA(Sep. 2025-Dec. 2026) <br> Master of Science in Data Science <br>
 - Korea University, Seoul, Korea(Mar. 2021-Aug. 2025) <br> Bachelor of Arts in Economics & Statistics <br>
 - University of British Columbia, Vancouver, Canada(Sep. 2023-Dec. 2023)
 <br> <br>
 
 ## Reaserch 📊
-- Undergraduate Researcher <br> Causality Lab, Graduate School of Data Science, Seoul National University(Nov. 2024-Present) <br>
+- Undergraduate Researcher <br> Causality Lab, Graduate School of Data Science, Seoul National University(Nov. 2024-June. 2025) <br>
 - Research Assistant <br> Professor Woochan Kim's Laboratory, Korea University, Business School(Sep. 2024-Jan. 2025)
 <br> <br>
 
