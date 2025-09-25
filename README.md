@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=ADD8E6&height=300&section=header&text=Jiwon%20Matilda%20Bae&desc=Data%20Scientist%20in%20Causal%20Decision%20Making&descSize=20&descAlign=70&descAlignY=70&fontColor=4682B4&fontSize=80" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=ADD8E6&height=300&section=header&text=Jiwon%20Matilda%20Bae&desc=Data%20Scientist%20in%20Healthcare&descSize=20&descAlign=70&descAlignY=70&fontColor=4682B4&fontSize=80" />
 </div>
 
 
@@ -10,7 +10,7 @@
 
 
 ## Interest 🧐
-- Decision-making using Causal Reinforcement Learning <br>
+- Decision-making using Causal Decision Making <br>
 - Resource allocation within healthcare systems <br>
 <br> <br>
 
@@ -22,6 +22,7 @@
 <br> <br>
 
 ## Reaserch 📊
+- Research Assistant <br> Belsky Lab, Columbia University Mailman School of Public Health(Sep. 2025-Present) <br>
 - Undergraduate Researcher <br> Causality Lab, Graduate School of Data Science, Seoul National University(Nov. 2024-June. 2025) <br>
 - Research Assistant <br> Professor Woochan Kim's Laboratory, Korea University, Business School(Sep. 2024-Jan. 2025)
 <br> <br>
